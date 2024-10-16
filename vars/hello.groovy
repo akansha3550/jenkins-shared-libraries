@@ -1,3 +1,3 @@
-def call {
-  echo "Hello Jenkins"
+def call() {
+    echo "Hello Jenkins"
 }
